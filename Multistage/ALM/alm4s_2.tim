@@ -1,0 +1,7 @@
+TIME          alm4s
+PERIODS
+    Z_0       R1_1                     PERIOD1
+    Z_1       R2_1                     PERIOD2
+    Z_2       3R1                      PERIOD3
+    Z_3       4R1                      PERIOD4
+ENDATA

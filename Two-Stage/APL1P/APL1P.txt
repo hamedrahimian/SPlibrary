@@ -1,0 +1,22 @@
+Number of 1st stage constraints and variables: (2,2)
+Number of 2nd stage constraints and variables: (5,9)
+Number of stochastic parameters: 5
+Number of scenarios: 1280
+
+Optimal: 
+x* = (1800, 1571.42857143)
+z* = 24642.3205807
+
+
+I: set of operators; J: set of operation levels
+-----------------------------
+input files rows in order 
+-----------------------------
+Kmin: min capacity for generator i
+Kmax: max capacity for generator i
+c: investment cost per unit capacity  for generator i
+f: operating cost per unit at operation level j on generator i
+u: cost per unit of unmet demand at operation level j
+probabilities
+a: availability of generator i
+demand: customer demand for operation level j

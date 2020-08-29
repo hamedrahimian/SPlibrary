@@ -1,0 +1,5 @@
+TIME    a_problem
+PERIODS    PLACEHOLDER
+    x1    c1    TIME1
+    x1    c31    TIME2
+ENDATA
