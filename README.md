@@ -1,4 +1,4 @@
 # SPlibrary
 
-A cllection of two- and multistage stochastic programming problems. 
+A collection of two- and multistage stochastic programming problems. 
 
