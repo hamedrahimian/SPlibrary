@@ -1,0 +1,42 @@
+STOCH         HYDRO
+INDEP         DISCRETE
+    RHS       ROW00315        54.954   PERIOD02          0.15
+    RHS       ROW00315        61.060   PERIOD02          0.70
+    RHS       ROW00315        67.166   PERIOD02          0.15
+    RHS       ROW00333       32.7474   PERIOD02          0.15
+    RHS       ROW00333        36.386   PERIOD02          0.70
+    RHS       ROW00333       40.0246   PERIOD02          0.15
+    RHS       ROW00339       58.9824   PERIOD02          0.15
+    RHS       ROW00339       65.5360   PERIOD02          0.70
+    RHS       ROW00339       72.0896   PERIOD02          0.15
+* note the sign is negative on the B matrix element (as it will
+* appear on the left hand side)
+    COL00043  ROW00183        -0.948   PERIOD02         0.153
+    COL00043  ROW00183        -0.914   PERIOD02         0.619
+    COL00043  ROW00183        -0.876   PERIOD02         0.213
+    COL00043  ROW00183        -0.833   PERIOD02         0.015
+    COL00038  ROW00153        -0.948   PERIOD02         0.153
+    COL00038  ROW00153        -0.914   PERIOD02         0.619
+    COL00038  ROW00153        -0.876   PERIOD02         0.213
+    COL00038  ROW00153        -0.833   PERIOD02         0.015
+    COL00046  ROW00201        -0.961   PERIOD02         0.522
+    COL00046  ROW00201        -0.910   PERIOD02         0.292
+    COL00046  ROW00201        -0.707   PERIOD02         0.171
+    COL00046  ROW00201        -0.465   PERIOD02         0.015
+    COL00039  ROW00159        -0.943   PERIOD02         0.319
+    COL00039  ROW00159        -0.895   PERIOD02         0.554
+    COL00039  ROW00159        -0.842   PERIOD02         0.115
+    COL00039  ROW00159        -0.782   PERIOD02         0.012
+    COL00062  ROW00213        -1.000   PERIOD02         0.961
+    COL00062  ROW00213        -0.794   PERIOD02         0.019
+    COL00062  ROW00213        -0.700   PERIOD02         0.020
+    COL00063  ROW00219        -1.000   PERIOD02         0.961
+    COL00063  ROW00219        -0.794   PERIOD02         0.019
+    COL00063  ROW00219        -0.700   PERIOD02         0.020
+    COL00073  ROW00279        -1.000   PERIOD02         0.961
+    COL00073  ROW00279        -0.794   PERIOD02         0.019
+    COL00073  ROW00279        -0.700   PERIOD02         0.020
+    COL00066  ROW00237        -1.000   PERIOD02         0.961
+    COL00066  ROW00237        -0.794   PERIOD02         0.019
+    COL00066  ROW00237        -0.700   PERIOD02         0.020
+ENDATA
